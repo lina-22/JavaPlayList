@@ -10,7 +10,7 @@ public class BasicJava {
 }
 //v1-v10 =1hour done 10/08/2023
 // v11-v20 = 1hour 13/08/2023 until 13 done and done 15/08/2023
-//v21-v30= 1hour start 15/08/2023
+//v21-v30= 1hour start 15/08/2023 until 24
 //v31-v40=1hour
 //v41-v50=1hour
 //v51-v60=1hour
