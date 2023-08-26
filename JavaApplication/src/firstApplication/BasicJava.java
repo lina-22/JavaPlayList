@@ -14,8 +14,8 @@ public class BasicJava {
 //v31-v40=1hour start 19/08/2023 until 33// done 22/08/2023
 //v41-v50=1hour start 22/08/2023 until 33// done 22/08/2023 factorial গৌণিক
 //v51-v60=1hour start 22/08/2023 until 52 done 23/08/2023 done 24/08/23
-//v61-70=1hour start 24/08/2023 until
-//v71-80=1hour
+//v61-70=1hour start 24/08/2023 done
+//v71-80=1hour start 25/08/2023 until 76 done 26/08/23
 //v81-v90=1hour
 //v91-v100=1hour
 //total = 10h

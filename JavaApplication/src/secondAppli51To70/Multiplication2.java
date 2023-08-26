@@ -1,4 +1,4 @@
-package secondAppliFiftyOneToHundrad;
+package secondAppli51To70;
 
 import java.util.Scanner;
 
