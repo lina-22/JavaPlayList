@@ -1,4 +1,4 @@
-package TrirdAppliArray71To100;
+package TrirdAppliArray71To86;
 
 public class Array4 {
     public static void main(String[] args) {

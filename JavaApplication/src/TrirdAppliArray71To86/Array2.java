@@ -1,4 +1,4 @@
-package TrirdAppliArray71To100;
+package TrirdAppliArray71To86;
 
 import java.util.Scanner;
 
