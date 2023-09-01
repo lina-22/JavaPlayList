@@ -16,18 +16,20 @@ public class BasicJava {
 //v51-v60=1hour start 22/08/2023 until 52 done 23/08/2023 done 24/08/23
 //v61-70=1hour start 24/08/2023 done
 //v71-80=1hour start 25/08/2023 until 76 done 31/08/23
-//v81-v90=1hour start 31/08/2023 until 76 done /08/23
-//v91-v100=1hour
-//total = 10h
+//v81-v90=1hour start /09/2023 until  done /09/23
+//v91-v100=1hour start /09/2023 until  done /09/23
+//total = 10h  end /09/2023
 
-//v101-v110=1hour //OOP
-//v111-v120=1hour
-//v121-v130=1hour
-//v131-v140=1hour
-//v141-v150=1hour
-//v151-v160=1hour
-//v161-v170=1hour
-//v171-v176=1hour
+//OOP start /09/2023
+
+//v101-v110=1hour start /09/2023 until  done /09/23
+//v111-v120=1hour start /09/2023 until  done /09/23
+//v121-v130=1hour start /09/2023 until  done /09/23
+//v131-v140=1hour start /09/2023 until  done /09/23
+//v141-v150=1hour start /09/2023 until  done /09/23
+//v151-v160=1hour start /09/2023 until  done /09/23
+//v161-v170=1hour start /09/2023 until  done /09/23
+//v171-v176=1hour start /09/2023 until  done /09/23
 
 //total = 8h
 
