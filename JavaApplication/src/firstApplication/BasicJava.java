@@ -16,9 +16,11 @@ public class BasicJava {
 //v51-v60=1hour start 22/08/2023 until 52 done 23/08/2023 done 24/08/23
 //v61-70=1hour start 24/08/2023 done
 //v71-80=1hour start 25/08/2023 until 76 done 31/08/23
-//v81-v90=1hour start /09/2023 until  done /09/23
+//v81-v90=1hour start 01/09/2023 until 86  done 3/09/23
+
 //v91-v100=1hour start /09/2023 until  done /09/23
-//total = 10h  end /09/2023
+//total = 10h
+// end /09/2023
 
 //OOP start /09/2023
 
