@@ -1,6 +1,5 @@
-package TrirdAppliArray71To86;
+package trirdAppliArray71To86;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Array8 {

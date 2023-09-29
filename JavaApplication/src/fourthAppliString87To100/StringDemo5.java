@@ -1,4 +1,4 @@
-package FourthAppliString87To100;
+package fourthAppliString87To100;
 
 public class StringDemo5 {
     public static void main(String[] args) {

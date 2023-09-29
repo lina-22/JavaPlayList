@@ -17,21 +17,24 @@ public class BasicJava {
 //v61-70=1hour start 24/08/2023 done
 //v71-80=1hour start 25/08/2023 until 76 done 31/08/23
 //v81-v90=1hour start 01/09/2023 until 86  done 3/09/23
-
-//v91-v100=1hour start 3/09/2023 until 91 StringBuffer Class 94 done /09/23
+//v91-v100=1hour start 3/09/2023 until 91 StringBuffer Class 94 done 20/09/23
 //total = 10h
-// end /09/2023
+// end 20/09/2023
 
-//OOP start /09/2023
+//***************************//
+//OOP start 20/09/2023
+//***************************//
+//https://www.youtube.com/watch?v=5sH2WHxApTE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=101
+//v101-v110=1hour start 20/09/2023 done 24/09/23
+//v111-v120=1hour start 20/09/2023 done 24/09/23
+//v121-v130=1hour start 20/09/2023 done 24/09/23
+//v131-v140=1hour start 26/09/2023 done 27/09/23
+//v141-v150=1hour start 27/09/2023 done 29/09/23
+//v151-v160=1hour start 29/09/2023 done 29/09/23
 
-//v101-v110=1hour start /09/2023 until  done /09/23
-//v111-v120=1hour start /09/2023 until  done /09/23
-//v121-v130=1hour start /09/2023 until  done /09/23
-//v131-v140=1hour start /09/2023 until  done /09/23
-//v141-v150=1hour start /09/2023 until  done /09/23
-//v151-v160=1hour start /09/2023 until  done /09/23
-//v161-v170=1hour start /09/2023 until  done /09/23
-//v171-v176=1hour start /09/2023 until  done /09/23
+//v161-v170=1hour start 29/09/2023 until 65  done /09/23 left(66-70)
+
+//v171-v176=1hour start 29/09/2023 done 29/09/23
 
 //total = 8h
 

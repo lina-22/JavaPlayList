@@ -1,4 +1,4 @@
-package TrirdAppliArray71To86;
+package trirdAppliArray71To86;
 
 import java.util.ArrayList;
 import java.util.Iterator;
